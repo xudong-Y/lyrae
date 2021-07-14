@@ -4,6 +4,8 @@
 [![codecov](https://codecov.io/gh/xudong-Y/lyrae/branch/main/graph/badge.svg)](https://codecov.io/gh/xudong-Y/lyrae)
 [![Documentation Status](https://readthedocs.org/projects/lyrae/badge/?version=latest)](https://lyrae.readthedocs.io/en/latest/?badge=latest)
 
+## About
+A python package that facilitates EDA.
 
 ## Installation
 
